@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-    { "src": "/api/chatwise-linkup", "dest": "api/chatwise-linkup.ts" }
-  ]
-}
