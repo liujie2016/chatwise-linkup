@@ -1,0 +1,14 @@
+{
+  "name": "chatwise-linkup-adapter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/chatwise-linkup.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
